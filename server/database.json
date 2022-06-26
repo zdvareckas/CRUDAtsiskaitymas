@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "title": "Popierius",
+      "price": "1",
+      "qty": "22",
+      "id": 1
+    },
+    {
+      "title": "Vanduo",
+      "price": "2",
+      "qty": "1",
+      "id": 2
+    },
+    {
+      "title": "Pieštukas",
+      "price": "1",
+      "qty": "22",
+      "id": 3
+    }
+  ]
+}
